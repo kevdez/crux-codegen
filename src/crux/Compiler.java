@@ -5,9 +5,9 @@ import java.io.IOException;
 import java.io.PrintStream;
 
 public class Compiler {
-    public static String studentName = "Kevin Hernandez";
-    public static String studentID = "90872295";
-    public static String uciNetID = "khernan3";
+    public static String studentName = "XXXXXXXX XXXXXXXX";
+    public static String studentID = "XXXXXXXX";
+    public static String uciNetID = "XXXXXXXX";
     
     public static void main(String[] args)
     {
